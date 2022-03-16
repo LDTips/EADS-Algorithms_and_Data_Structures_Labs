@@ -1,9 +1,13 @@
 # EADS_Labs
 Laboratory tasks (C++) from Algorithms and Data Structures course
 
-Documentation is provided in code comments and in separate .pdf files for each project
 
 ## Tasks
+Data structure implementations:
 1. Single-list class implementation
 2. Ring class implementation
-3. AVL tree implementation
+3. Encapsulated AVL tree (self-balancing tree) implementation
+
+## Information
+
+Documentation is provided in separate .pdf files for each project, as well as in code comments.
