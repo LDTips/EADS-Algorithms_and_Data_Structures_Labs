@@ -1,5 +1,6 @@
 # EADS_Labs
-Laboratory tasks (C++) from Algorithms and Data Structures course
+Laboratory tasks (C++) from Algorithms and Data Structures course\
+Done during 3rd semester, winter 2020.
 
 
 ## Tasks
