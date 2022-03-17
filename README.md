@@ -1,6 +1,6 @@
 # EADS_Labs
 Laboratory tasks (C++) from Algorithms and Data Structures course\
-Done during 3rd semester, winter 2020.
+Done during my 3rd semester of studies, winter 2020.
 
 
 ## Tasks
